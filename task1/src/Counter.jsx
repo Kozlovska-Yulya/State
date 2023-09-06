@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import './index.scss';
 import './counter.scss';
 
-let counter = 0;
+let counter = 17;
 
 class Counter extends Component {
   constructor(props) {
